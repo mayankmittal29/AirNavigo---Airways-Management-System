@@ -1,2 +1,8 @@
-# AirNavigo---Airways-Management-System
-This is an airways managment database. Database used for this is SQL. It includes scheduling flights, booking tickets, updating passenger info, managing airport resources like runways and shops, generating reports such as total revenue and average fare, querying details of passenger and flights 
+# AirwaysManagmentDatabase
+
+fill password in db_config
+and just run source_code.py
+
+Go thorugh all Pdf files To see development stages 
+
+To see final Product Just DemoVideo.mp4 video is enough
